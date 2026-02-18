@@ -1,4 +1,4 @@
-# Password Generator
+# TODO List
 
 I built this TODO List Web App using ReactJS.
 
