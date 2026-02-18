@@ -1,6 +1,6 @@
-# Currenct Convertor
+# Password Generator
 
-I built this currency convertor Web App using ReactJS.
+I built this password generator Web App using ReactJS.
 
 Here is the live link of the project Link: (https://password-generator-flax-five-35.vercel.app/)
 
